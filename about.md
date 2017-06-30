@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hei! Tykkään kirjoitella tänne kaikenlaista.
 
-### More Information
+### Lisää tietoja
 
-A place to include any other types of information that you'd like to include about yourself.
+Tykkään kaikenlaisista tiedoista...
 
-### Contact me
+### Ota yhteyttä
 
-[email@domain.com](mailto:email@domain.com)
+[moikkis@gmail.com](mailto:moikkis@gmail.com)
