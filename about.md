@@ -13,6 +13,8 @@ Olen innostunut siitä miten tietotekniikan avulla voidaan ratkaista ongelmia ja
 
 Oikeastaan kaikki alat ovat nykyään ohjelmistoaloja. Kaikille aloille liittyy ohjelmistoja. Projekteissa, joissa olen ollut mukana, olen oppinut esimerkiksi paperin valmistuksesta, palkanmaksusta, teiden kunnossapidosta, käännöksistä, auton vuokrauksesta...
 
+Tällä hetkellä työskentelen Intrinsic Oy:ssä.
+
 
 ### Ota yhteyttä
 
