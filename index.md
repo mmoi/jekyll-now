@@ -6,10 +6,8 @@ header:
   overlay_image: /images/aland.jpg
   cta_label: "Kutsu minut haastatteluun"
   cta_url: "#contact"
-  overlay_filter: 0.5
+  overlay_filter: 0.1
 ---
-
-Hei!
 
 Olen Mikko Oikkonen, tamperelainen ohjelmistosuunnittelija. Minulla on kymmenen vuoden työkokemus ohjelmistoalalta erilaisista projekteista.
 
