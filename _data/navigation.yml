@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Esittely"
+    url: index.md#esittely
+  - title: "Työkokemus"
+    url: index.md#kokemus
+  - title: "Projektit"
+    url: index.md#projektit
+  - title: "Blogi"
+    url: blogi.md
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

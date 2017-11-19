@@ -2,20 +2,17 @@
 layout: page
 title: About
 permalink: /about/
-published: true
 ---
 
-### Hei!
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-Olen Mikko Oikkonen, tamperelainen ohjelmistosuunnittelija. Minulla on kymmenen vuoden työkokemus ohjelmistoalalta erilaisista projekteista.
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-Olen innostunut siitä miten tietotekniikan avulla voidaan ratkaista ongelmia ja helpottaa työskentelyä eri aloilla.
-
-Oikeastaan kaikki alat ovat nykyään ohjelmistoaloja. Kaikille aloille liittyy ohjelmistoja. Projekteissa, joissa olen ollut mukana, olen oppinut esimerkiksi paperin valmistuksesta, palkanmaksusta, teiden kunnossapidosta, käännöksistä, auton vuokrauksesta...
-
-Tällä hetkellä työskentelen Intrinsic Oy:ssä.
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
 
-### Ota yhteyttä
-
-[moikkis@gmail.com](mailto:moikkis@gmail.com)
+[jekyll-organization]: https://github.com/jekyll
