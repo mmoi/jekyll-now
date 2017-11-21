@@ -1,15 +1,15 @@
 ---
 title: "Mikko Oikkonen"
-excerpt: "Tietotyön tekijä. Renki. Tiimiläinen. Motivaatiopuhuja."
+excerpt: "Työnantajan paras ystävä"
 layout: single
 header:
   overlay_image: /images/aland.jpg
-  cta_label: "Kutsu minut haastatteluun"
+  cta_label: "Kutsu Mikko haastatteluun"
   cta_url: "#contact"
   overlay_filter: 0.1
 ---
 
-Olen Mikko Oikkonen, tamperelainen ohjelmistosuunnittelija. Minulla on kymmenen vuoden työkokemus ohjelmistoalalta erilaisista projekteista.
+Olen Mikko Oikkonen, tamperelainen tietotyön tekijä ja ohjelmistosuunnittelija. Minulla on yli kymmenen vuoden työkokemus ohjelmistoalalta erilaisista projekteista.
 
 Olen innostunut siitä miten tietotekniikan avulla voidaan ratkaista ongelmia ja helpottaa työskentelyä eri aloilla.
 
