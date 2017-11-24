@@ -25,6 +25,8 @@ Ymmärtää tiimityön merkityksen. Oma-aloitteisuus tärkeää. Ei häpeä pyyt
 
 Kokemusta projekteista alusta loppuun erilaisin menetelmin. Waterwall, Agile, Lean, Death march. Mukana start-up yrityksissä ja vakiintuneissa Legacy projekteissa. "I've seen things": 20 vuotta vanhan legacy-projektin kuolema, start-up yrityksen nousu tyhjästä menestykseen. 
 
+<span id="esittely" />
+
 # Esittely
 
 , tamperelainen tietotyön tekijä ja ohjelmistosuunnittelija. Minulla on yli kymmenen vuoden työkokemus ohjelmistoalalta erilaisista projekteista.
