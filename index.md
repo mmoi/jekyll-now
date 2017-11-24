@@ -29,16 +29,17 @@ Kokemusta projekteista alusta loppuun erilaisin menetelmin. Waterwall, Agile, Le
 
 # Esittely
 
-, tamperelainen tietotyön tekijä ja ohjelmistosuunnittelija. Minulla on yli kymmenen vuoden työkokemus ohjelmistoalalta erilaisista projekteista.
+Olen Mikko Oikkonen, tamperelainen tietotyön tekijä ja ohjelmistosuunnittelija. Minulla on työkokemusta ohjelmistoalalta yli viidentoista vuoden ajalta.
 
 Olen innostunut siitä miten tietotekniikan avulla voidaan ratkaista ongelmia ja helpottaa työskentelyä eri aloilla.
+
+Haluan olla mukana surffaamassa digitalisaation aallonharjalla... :)
 
 Oikeastaan kaikki alat ovat nykyään ohjelmistoaloja. Kaikille aloille liittyy ohjelmistoja. Projekteissa, joissa olen ollut mukana, olen oppinut esimerkiksi paperin valmistuksesta, palkanmaksusta, teiden kunnossapidosta, käännöksistä, auton vuokrauksesta…
 
 # Projektit
 
 Tässä viimeisimpiä projekteja joissa olen ollut mukana:
-
 
 ## Intrinsic Oy
 
