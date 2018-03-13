@@ -9,6 +9,8 @@ header:
   overlay_filter: 0.1
 ---
 
+<span id="esittely"></span>
+
 # Mikko Oikkonen
 
 Tietotyön tekijä ja ohjelmisto-ammattilainen vuosien kokemuksella ohjelmistoprojekteista laidasta laitaan.
