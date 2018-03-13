@@ -2,10 +2,10 @@
 main:
   - title: "Esittely"
     url: index.html#esittely
-  - title: "Työkokemus"
-    url: index.html#kokemus
-  - title: "Projektit"
-    url: index.html#projektit
+  #- title: "Työkokemus"
+  #  url: index.html#kokemus
+  #- title: "Projektit"
+  #  url: index.html#projektit
   - title: "Blogi"
     url: blogi.html
   # - title: "Sample Collections"
